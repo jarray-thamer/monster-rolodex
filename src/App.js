@@ -29,7 +29,7 @@ useEffect(()=>{
 
   return(
       <div className='App'>
-        <h2 className='app-title'>Monster Rolodex</h2>  
+        <h2 className='app-title'>Monster_Rolodex</h2>  
         <SearchBox 
             onSearchChange={onSearchChange}
             className='search-box'
